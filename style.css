@@ -1,0 +1,14 @@
+html {
+    scroll-behavior: smooth;
+}
+
+img {
+    transition: transform.2s;
+    border: 10px solid #AAAAAA;
+    width: 50px;
+    height: 50px;
+}
+
+img.hover {
+    transform: scale(0.9);
+}
